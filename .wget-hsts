@@ -1,0 +1,5 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+alchetron.com	0	0	1645135034	15552000
+codeload.github.com	0	0	1644243873	31536000
